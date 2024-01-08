@@ -17,7 +17,7 @@ Introduces the `GolfClub` class for handling golf schedules, tee times, and book
 
 ### 2. Tkinter GUI Application
 
-#### 2.1. questiono4.py (GolfScheduleGUI_Grid.py)
+#### 2.1. question4.py (GolfScheduleGUI_Grid.py)
 A Tkinter GUI application for managing golf schedules. Allows users to input tee times, select a course, and display play schedules.
 
 
